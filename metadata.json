@@ -1,0 +1,6 @@
+{
+  "name": "Conciliação Fiscal & Logística ERP",
+  "description": "Dashboard e planilha comparativa de Notas Fiscais: lançadas no ERP, pendentes de lançamento, em trânsito e com agendamento de entrega.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
